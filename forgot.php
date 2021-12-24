@@ -56,7 +56,7 @@
 			<form method="POST" action="" onsubmit="return forgotValidate()">
 				<div class="formgroup">
 					<label>Email:</label>
-					<input type="text" onfocus="hideError(this)" onblur="checkError(this)" name="email" id="email" class="formcontrol"/>
+					<input type="email" onfocus="hideError(this)" onblur="checkError(this)" name="email" id="email" class="formcontrol"/>
 					<small class="errormsg" id="email_error"></small>
 				</div>
 				

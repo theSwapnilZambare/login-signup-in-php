@@ -74,7 +74,7 @@ if(isset($_SESSION["userid"]) && !empty($_SESSION["userid"]))
 					
 					<div class="formgroup">
 						<label>Mobile:</label>
-						<input type="text" name="mobile" onfocus="hideError(this)" onblur="checkError(this)" id="mobile" value="<?php echo $row['mobile'];?>" class="formcontrol"/>
+						<input type="number" name="mobile" onfocus="hideError(this)" onblur="checkError(this)" id="mobile" value="<?php echo $row['mobile'];?>" class="formcontrol"/>
 						<small class="errormsg" id="mobile_error"></small>
 					</div>
 					
