@@ -81,7 +81,7 @@
 				
 				<div class="formgroup">
 					<label>Email:</label>
-					<input type="text" onfocus="hideError(this)" onblur="checkError(this)" name="email" id="email" class="formcontrol"/>
+					<input type="email" onfocus="hideError(this)" onblur="checkError(this)" name="email" id="email" class="formcontrol"/>
 					<small class="errormsg" id="email_error"></small>
 				</div>
 				
@@ -99,7 +99,7 @@
 				
 				<div class="formgroup">
 					<label>Mobile:</label>
-					<input type="text" name="mobile" id="mobile" class="formcontrol"/>
+					<input type="number" name="mobile" id="mobile" class="formcontrol"/>
 				</div>
 				
 				<div class="formgroup">
