@@ -3,10 +3,6 @@
  Basic User login & signup in PHP-MySQL  with JavaScript form validations
 
 
-Import sql file "sz_phptutorial"
-
-<hr>
-
 ## Project Details :
 
 Project Name : User Registration & Login in PHP
@@ -43,8 +39,8 @@ Software : XAMPP / WAMP / MAMP/ LAMP
 - MySQL Database file uploaded into database folder.
 
 
-##########################
 
+<hr>
 
 ## How to run the Project : 
 
