@@ -48,19 +48,19 @@ Software : XAMPP / WAMP / MAMP/ LAMP
 
 ## How to run the Project : 
 
-1. Download the zip file
+1. <a href="https://github.com/theSwapnilZambare/login-signup-in-php/archive/refs/heads/main.zip" target="_blank" ><b>Download the zip file</b></a>
 
 2. Extract the file and copy login-signup-in-php folder
 
 3. Paste inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/html)
 
-4. Open PHPMyAdmin (http://localhost/phpmyadmin)
+4. Open PHPMyAdmin (<a href="http://localhost/phpmyadmin" target="_blank" >http://localhost/phpmyadmin</a>)
 
 5. Create a database with name loginsystem
 
 6. Import sz_phptutorial file (given inside the zip package in database file folder)
 
-7. Run the script http://localhost/login-signup-in-php
+7. Run the script <a href="http://localhost/login-signup-in-php" target="_blank" >http://localhost/login-signup-in-php</a> 
 
 
 
