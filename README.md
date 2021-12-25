@@ -1,6 +1,6 @@
-# Basic User login & signup in php
+# User login & signup in php
 
- Basic User login & signup in PHP-MySQL  with JavaScript form validations
+  User login & signup in PHP-MySQL  with JavaScript form validations
 
 
 ## Project Details :
